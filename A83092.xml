@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament, for execution of martiall law, according to the meaning of this ordinance, to continue for the space of four moneths from the date hereof. Together with the names of such commissioners as are appointed for the execution thereof. 16. August, 1644. Ordered by the Commons in Parliament, that this ordinance be forthwith printed &amp; published: Henry Elsyng, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83092</idno>
+            <idno type="STC">Wing E1890</idno>
+            <idno type="STC">Thomason E6_22</idno>
+            <idno type="STC">ESTC R11434</idno>
+            <idno type="EEBO-CITATION">99859026</idno>
+            <idno type="PROQUEST">99859026</idno>
+            <idno type="VID">154721</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83092)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154721)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 1:E6[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament, for execution of martiall law, according to the meaning of this ordinance, to continue for the space of four moneths from the date hereof. Together with the names of such commissioners as are appointed for the execution thereof. 16. August, 1644. Ordered by the Commons in Parliament, that this ordinance be forthwith printed &amp; published: Henry Elsyng, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>August 17. [1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Martial law --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154721:1"/>
+            <!-- PDF PAGE 19 -->
+            <pb facs="tcp:154721:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <p>AN ORDINANCE OF THE Lords and Commons Aſſembled in PARLIAMENT, For Execution of Martiall Law, According to the meaning of this Ordinance, to continue for the ſpace of four Moneths from the date hereof.</p>
+            <p>Together with the Names of ſuch Commiſ<g ref="char:EOLhyphen"/>ſioners as are appointed for the Execution thereof.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>16. Auguſt, 1644.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons in Parliament, That this Ordinance be forthwith printed &amp; publiſhed.</p>
+                        <closer>
+                           <signed>Henry Elſyng, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for <hi>Edward Husbands,</hi> Auguſt 17.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154721:2"/>
+            <!-- PDF PAGE 20 -->
+            <pb n="3" facs="tcp:154721:2"/>
+            <!-- PDF PAGE 20 -->
+            <opener>
+               <dateline>
+                  <date>Auguſt 16. 1644.</date>
+               </dateline>
+            </opener>
+            <head>An Ordinance of the Lords and Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament, for execu<g ref="char:EOLhyphen"/>tion of Martiall Law, according to the meaning of the Ordinance, to continue for the ſpace of four Moneths from the date hereof.</head>
+            <p>
+               <hi>BE it Ordained by the Lords and Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament, and by authority of the ſame, That</hi> Robert <hi>Earl of</hi> Eſſex, <hi>Captain Generall of the Forces raiſed by the authority of Parliament,</hi> Al<g ref="char:EOLhyphen"/>gernon <hi>Earl of</hi> Northumberland, Henry <hi>Earl of</hi> Kent, Philip <hi>Earl of</hi> Pembroke, William <hi>Earl of</hi> Salisbury, Oliver <hi>Earl of</hi> Bullingbrook, Ed<g ref="char:EOLhyphen"/>ward <hi>Earl of</hi> Mancheſter, Baſil <hi>Earl of</hi> Den<g ref="char:EOLhyphen"/>bigh, William <hi>Lord Viſcount</hi> Say <hi>and</hi> Seale, Philip <hi>Lord</hi> Whatton, Dudley <hi>Lord</hi> North, William <hi>Lord</hi> Grey <hi>of</hi> Werk, John <hi>Lord</hi> Ro<g ref="char:EOLhyphen"/>berts, Philip <hi>Lord</hi> Liſle, <hi>Sir</hi> William Waller, <hi>Sir</hi> Arthur Haſlerig, <hi>Sir</hi> John Corbet, <hi>Sir</hi>
+               <pb n="4" facs="tcp:154721:3"/>
+               <!-- PDF PAGE 21 -->
+John Bamfield, <hi>Sir</hi> Henry Heyman, Colonell Alexander Popham, Col: Stapeley, Col: White<g ref="char:EOLhyphen"/>head, Col: Morley, Col: Purefoy, Col: Ven, Ed<g ref="char:EOLhyphen"/>ward Bainton <abbr>
+                  <hi>Eſq</hi>
+               </abbr> Col: William Jephſon, Col: Alexander Rigby, Tho: Arundell <hi>
+                  <abbr>Eſq</abbr> Serge<g ref="char:EOLhyphen"/>ant Major Generall</hi> Skippon, <hi>Sir</hi> Nathaniel Brent, <hi>Doctor</hi> Tho: Eden, John Bradſhaw <abbr>
+                  <hi>Eſq</hi>
+               </abbr> William Steele <hi>
+                  <abbr>Eſq</abbr> Sir</hi> James Harrington, Col: Brown, Col: Weſt, Col: Charls Fleetwood, Col: William Strode, Col: Turner, Col: Manwa<g ref="char:EOLhyphen"/>ring, Col: Whitchcote, Col: Pyndar, <hi>Lieutenant</hi> Col: Welden, <hi>Lieutenant</hi> Col: Underwood, <hi>Lieutenant</hi> Col: Wilſon, <hi>Major</hi> Salloway, <hi>Major</hi> Titchborn, Col: Humfrey, Col: Player, Col: Prince, Col: Harſnet, <hi>Major</hi> Camfield,  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  Molyns, Col: Owen, <hi>Lieutenant</hi> Col: Web, <hi>Lieutenant</hi> Col: Bradley, <hi>or any Twelve or more of them, whereof ſuch of the Members of either Houſe of Parlia<g ref="char:EOLhyphen"/>ment, as have Commiſſion and com<g ref="char:EOLhyphen"/>mands in any of the Armies or Garriſons; and Sir</hi> William Waller, <hi>Sir</hi> Arthur Haſlerig, <hi>Sir</hi> John Corbet, <hi>Sir</hi> Henry Heyman, Col. Alexander Rigby, Col: William Jephſon, Col: Ven, <hi>Sir</hi> Nathaniel Brent, <hi>alwayes to be Three, ſhall be Commiſſioners, and ſhall
+<pb n="5" facs="tcp:154721:3"/>
+                  <!-- PDF PAGE 21 -->
+have full power and authority to hear and determine all ſuch cauſes as belong to Mi<g ref="char:EOLhyphen"/>litary cognizance, according to the Arti<g ref="char:EOLhyphen"/>cles in this preſent Ordinance mentioned; And to proceed to the Tryall, Condemna<g ref="char:EOLhyphen"/>tion, and Execution of all Offenders a<g ref="char:EOLhyphen"/>gainſt the ſaid Articles, and to inflict up<g ref="char:EOLhyphen"/>on the Offenders ſuch puniſhment, either by Death or otherwiſe corporally, as the ſaid Commiſſioners or the</hi> major <hi>part of them then preſent ſhall judge to apper<g ref="char:EOLhyphen"/>tain to Iuſtice, according to the nature of the Offence, and Articles here inſu<g ref="char:EOLhyphen"/>ing:</hi>
+            </p>
+            <p n="1">I. NO perſons whatſoever ſhall from henceforth vo<g ref="char:EOLhyphen"/>luntarily repair or go from the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> or from any other parts of the kingdom, under the power of the Parliament, unto the perſon of the King or Queen, or Lords of the Counſell abiding with him or her, or to any Commander or Officer of the Kings Army, or ſhall give or hold any Intelligence by Letters, Meſſages or other<g ref="char:EOLhyphen"/>wiſe with any in Arms againſt the Parliament, without con<g ref="char:EOLhyphen"/>ſent of both Houſes of Parliament, or the Committee ap<g ref="char:EOLhyphen"/>pointed by Ordinance of Parliament for managing the war, the Lord Generall of the forces raiſed by the two Houſes, or from the reſpective Officers that ſhall Command in chief any of the ſaid forces, upon paine of death, or other Cor<g ref="char:EOLhyphen"/>porall puniſhment at diſcretion.</p>
+            <p n="2">
+               <pb n="6" facs="tcp:154721:4"/>
+               <!-- PDF PAGE 22 -->II. Whoſoever hath or ſhall Plot, Contrive, or endeavour the betraying, ſurrendring, or yielding up to the Enemy, or hath or ſhall contrary to the rules of War, ſurrender, yield up or betray any Cities, Townes, Forts, Magazines, or forces which now are, or hereafter ſhall be under the power of the Parliament, ſhall be puniſhed with death.</p>
+            <p n="3">III. No Perſon or Perſons whatſoever not under the power of the Enemy, ſhall voluntarily relieve any Perſon being in Armes againſt the Parliament, knowing him to have been ſo in Armes, with any money, victualls, or Ammuniti<g ref="char:EOLhyphen"/>on, upon paine of death or other corporall puniſhment at di<g ref="char:EOLhyphen"/>ſcretion, or ſhall voluntarily and knowingly harbour or re<g ref="char:EOLhyphen"/>ceive any being in Armes as aforeſaid, upon paine of puniſh<g ref="char:EOLhyphen"/>ment at diſcretion.</p>
+            <p n="4">IIII. No Officer or Souldier ſhall make any mutinous aſ<g ref="char:EOLhyphen"/>ſemblies, or be aſſiſting thereunto upon paine of death.</p>
+            <p n="5">V. No Guardian, or Officer of any Priſon, ſhall wilfully ſuffer any Priſoner of War to eſcape under paine of death, or negligently under paine of impriſonment, and further puniſh<g ref="char:EOLhyphen"/>ment at diſcretion.</p>
+            <p n="6">VI. Whoſoever ſhall voluntarily take up Armes againſt the Parliament, having taken the Nationall Covenant, ſhall dye without mercy.</p>
+            <p n="7">VII. Whatſoever Officer, or Commander, hath or ſhall deſert their truſt, and adheare to the enemy, ſhall dye with<g ref="char:EOLhyphen"/>out mercy.</p>
+            <p>
+               <pb n="7" facs="tcp:154721:4"/>
+               <!-- PDF PAGE 22 -->
+               <hi>And it is hereby further Ordained by the authority aforeſaid, that the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners, or any twelve or more of them, whereof ſuch of the Members of either Houſe of Parliament as have Commisſi<g ref="char:EOLhyphen"/>ons, and commands in any of the Armies or Garriſons, and ſir</hi> William Waller, <hi>ſir</hi> Ar<g ref="char:EOLhyphen"/>ther Haſlerig, <hi>ſir</hi> Iohn Corbet, <hi>ſir</hi> Henry Heyman, <hi>Colonell</hi> Alexander Rigby, <hi>Col.</hi> William Iephſon, <hi>Col.</hi> Venn, <hi>ſir</hi> Nathaniell Brent, <hi>alwaies to be three, ſhall be authorized from time to time ſo often as they ſhall thinke fit, or ſhall be ordered thereunto by both or either Houſe of Parliament, to ſit in ſome convenient place within the cities of</hi> London <hi>and</hi> Weſt<g ref="char:EOLhyphen"/>minſter, <hi>or Lines of Communication, and to appoint a Iudge Advocate, a Provoſt Martiall, and all other Officers needfull. And it is hereby further Ordained, that all Maiors, Sheriffs, Iuſtices of Peace, Con<g ref="char:EOLhyphen"/>ſtables, Bailiffes, and other Officers ſhall be aiding and asſiſting to the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners in the execution of the Premiſſes, and that the ſaid Commisſioners, and eve<g ref="char:EOLhyphen"/>ry of them, and all and every other Perſon and Perſons, that ſhall be aiding and aſ<g ref="char:EOLhyphen"/>ſiſting
+<pb n="6" facs="tcp:154721:5"/>
+                  <!-- PDF PAGE 23 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:154721:5"/>
+                  <!-- PDF PAGE 23 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="8" facs="tcp:154721:6"/>
+                  <!-- PDF PAGE 24 -->
+to them in the execution of the Pre<g ref="char:EOLhyphen"/>miſſes, ſhall be ſaved harmleſſe and in<g ref="char:EOLhyphen"/>dempnified for what they ſhal do therein by authority of Parliament, provided never<g ref="char:EOLhyphen"/>theleſſe that no Member of either Houſes of Parliament, or Asſiſtants of the houſe of Peeres ſhall be queſtioned, or tryed before the Commisſioners appointed by vertue of this preſent Ordinance, without aſſent and leave firſt had and obtained of both Houſes of Parliament.</hi>
+            </p>
+            <p>
+               <hi>And be it alſo provided, that this preſent Ordinance, and the authority hereby given, and appointed to the Perſons hereby nomi<g ref="char:EOLhyphen"/>nated, ſhall endure and have continuance for four moneths from the making hereof.</hi>
+            </p>
+            <p>
+               <hi>Provided that this Ordinance for any of<g ref="char:EOLhyphen"/>fence hereafter to be committed ſhall not take place, or be of force untill eight daies after the publication hereof, any thing in this Ordinance to the contrary notwith<g ref="char:EOLhyphen"/>ſtanding.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
